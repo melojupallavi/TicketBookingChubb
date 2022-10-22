@@ -1,0 +1,15 @@
+.buttoninside{
+padding-left: 110px;
+padding-right: 110px;
+letter-spacing: 18px;
+
+}
+p{
+    text-align: center;
+}
+input{
+    width: 150%;
+}
+select{
+    width: 150%;
+}

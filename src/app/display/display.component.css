@@ -1,0 +1,14 @@
+table{
+    margin-left:4rem;
+    width: 90%;
+}
+th.mat-header-cell{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: aliceblue;
+    padding-left: 9px;
+    padding-right: 9px;
+    border-radius: 3px;
+}
